@@ -1,0 +1,26 @@
+/* The body styling  */
+body {
+  margin: 5rem;
+  font-size: 2rem;
+}
+/* The first item with square */
+.fi-di {
+  margin: 10px 0;
+  list-style-type: square;
+}
+/* The ouder list in the first list  */
+.order-list {
+  margin: 10px 0;
+  list-style-type: upper-roman;
+}
+
+/* The square style in the nesty list in nesty list */
+.list-square {
+  margin: 10px 0;
+  list-style-type: square;
+}
+
+.sub-sub-sub-item {
+  margin: 10px 0;
+  list-style-type: circle;
+}
